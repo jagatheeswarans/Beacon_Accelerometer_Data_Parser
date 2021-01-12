@@ -10,6 +10,6 @@ To run the application Beacon_Accelerometer_Data_Parser:
 To run the application Beacon_Accelerometer_Data_Parser_With_BLE_Scanner:
 
 1. Make sure you have python installed and setup on your system. App is tested on Python 3.8
-2. Make sure you have installed beacontools - https://pypi.org/project/beacontools/
+2. Make sure you have installed beacontools - https://pypi.org/project/beacontools/ (Works only on Linux Platforms)
 3. Download or clone the repository
 4. To start the application: python Beacon_Accelerometer_Data_ParserWith_BLE_Scanner.py
