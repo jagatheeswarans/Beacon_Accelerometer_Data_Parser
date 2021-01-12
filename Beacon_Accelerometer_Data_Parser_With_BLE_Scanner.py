@@ -89,7 +89,7 @@ while 1:  # Main Code
 
     # scan for all iBeacon advertisements from beacons with the specified uuid
     scanner = BeaconScanner(callback,
-                            device_filter=IBeaconFilter(uuid="E1FF")
+                            device_filter=IBeaconFilter(uuid="53594F4F-4B53-4F43-4941-4C4449535445")
                             )
     scanner.start()
     global Input_Data, input_data
